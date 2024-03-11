@@ -49,7 +49,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                       height: size.height * 0.45,
                     ),
                     const Text(
-                      'Welcome to Profitmate - your assistant in increasing the profitability of vending machines!',
+                      'Welcome to Sably - your assistant in increasing the profitability of vending machines!',
                       style: OnboardingTextStyle.introduction,
                       textAlign: TextAlign.start,
                       softWrap: true,
